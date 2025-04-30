@@ -1,0 +1,48 @@
+body{
+    background-image: url(./ChatGPT_Image_2025._apr._30._13_44_53.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header{
+    text-align: center;
+    color: rgb(187, 165, 61);
+    background-color: rgba(42, 47, 47, 0.8);
+    margin: 0px 250px;
+    padding: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@media (max-width: 600px) {
+    p {
+      font-size: 1rem;
+      padding: 0 1rem;
+    }
+  }
+
+
+.nav-link{
+    display: block;
+    color: rgb(187, 165, 61);
+    font-size: x-large;
+}
+
+.buzi{
+    background-color: rgba(42, 47, 47, 0.8);
+    margin: 0px 250px;
+}
+
+.nav-link:hover{
+    background-color: rgba(36, 32, 32, 0.8);
+    color: rgb(187, 165, 61);
+    border-radius: 10%;
+}
+
+.tartalom{
+    background-color: rgba(42, 47, 47, 0.8);
+    margin: 0px 250px;
+    color: rgb(187, 165, 61);
+    padding: 30px;
+    padding-bottom: 300px;
+    text-align: justify;
+}
